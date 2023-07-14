@@ -1,2 +1,2 @@
 # Final
-Arnau and Xose 
+VideoGame created for Xoselb and Arnau
