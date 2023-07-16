@@ -4585,3 +4585,86 @@ Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Set Pause MENU REF
 [2023.07.16-16.47.11:794][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.07.16-16.47.12:788][312]LogDebuggerCommands: Repeating last play command: Standalone Game
 [2023.07.16-16.47.12:821][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.07.16-16.55.54:131][133]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (NVIDIA Broadcast), InstanceID=1
+[2023.07.16-16.55.54:277][134]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=32764
+[2023.07.16-16.55.54:505][134]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d32b332c-d2ce-47e8-b71f-25b08db7760e}, Name=Speakers (NVIDIA Broadcast)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=137.31
+[2023.07.16-16.55.54:505][134]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.07.16-16.55.54:508][134]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.07.16-17.04.00:611][593]LogDerivedDataCache: C:/Users/xosel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:17.952 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 40108 files in 41653 folders with total size 6185 MiB.
+[2023.07.16-18.03.31:142][304]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=MSI G272 (NVIDIA High Definition Audio), InstanceID=1
+[2023.07.16-18.03.31:388][304]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=32764
+[2023.07.16-18.03.31:927][305]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{4dbe9246-f996-497a-989d-6dab2668bb3f}, Name=MSI G272 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=68.70
+[2023.07.16-18.03.31:927][305]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.07.16-18.03.31:929][305]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.07.16-18.03.54:748][593]LogAutomationController: Ignoring very large delta of 3.93 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.07.16-18.03.59:330][795]LogSlate: Window 'Project Settings' being destroyed
+[2023.07.16-18.03.59:344][795]LogSlate: Window 'Project Settings' being destroyed
+[2023.07.16-18.04.00:579][820]LogDerivedDataCache: C:/Users/xosel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:17.919 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 40108 files in 41653 folders with total size 6185 MiB.
+[2023.07.16-18.04.01:073][842]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Niveles/MainMenu/Widgets/Pause.Pause
+[2023.07.16-18.04.01:073][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-18.04.01:074][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-18.04.01:195][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-18.04.01:195][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-18.04.04:291][977]LogSlate: Window 'Pause' being destroyed
+[2023.07.16-18.04.04:300][977]LogSlate: Window 'Pause' being destroyed
+[2023.07.16-18.04.04:327][977]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-18.04.04:327][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-18.04.04:336][977]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-18.04.04:336][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-18.04.05:349][ 24]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Niveles/MainMenu/Widgets/UW_Opciones1.UW_Opciones1
+[2023.07.16-18.04.05:349][ 24]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-18.04.05:349][ 24]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-18.04.05:378][ 24]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-18.04.05:379][ 24]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-18.04.24:717][960]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Niveles/MainMenu/Widgets/UW_Opciones.UW_Opciones
+[2023.07.16-18.04.24:717][960]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-18.04.24:718][960]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-18.04.24:746][960]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-18.04.24:746][960]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-18.04.28:821][129]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-18.04.28:821][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-18.04.28:829][129]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-18.04.28:830][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-18.04.30:883][220]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Niveles/MainMenu/Widgets/Pause.Pause
+[2023.07.16-18.04.30:883][220]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-18.04.30:883][220]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-18.04.30:915][220]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-18.04.30:915][220]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-18.05.05:386][886]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-18.05.05:386][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-18.05.05:393][886]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-18.05.05:693][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-18.05.11:459][146]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Niveles/MainMenu/Widgets/UW_MainMenu.UW_MainMenu
+[2023.07.16-18.05.11:459][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-18.05.11:459][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-18.05.11:488][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-18.05.11:488][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-18.05.13:486][223]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-18.05.13:487][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-18.05.13:497][223]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-18.05.13:600][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-18.05.15:599][306]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Niveles/MainMenu/Widgets/MainMenuGameMode.MainMenuGameMode
+[2023.07.16-18.05.15:655][306]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-18.05.15:655][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-18.05.16:353][306]LogSlate: The tab "Document" attempted to spawn in layout 'Standalone_BlueprintDefaults_Layout_v7' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2023.07.16-18.05.18:720][399]LogSlate: Window 'Document' being destroyed
+[2023.07.16-18.05.18:733][399]LogSlate: Window 'Document' being destroyed
+[2023.07.16-18.05.19:606][436]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-18.05.19:606][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-18.05.21:399][514]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Niveles/MainMenu/Widgets/MainMenuPlayerController.MainMenuPlayerController
+[2023.07.16-18.05.21:399][514]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-18.05.21:399][514]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-18.05.21:694][514]LogSlate: The tab "Document" attempted to spawn in layout 'Standalone_BlueprintDefaults_Layout_v7' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2023.07.16-18.05.22:970][566]LogSlate: Window 'Document' being destroyed
+[2023.07.16-18.05.25:452][675]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-18.05.25:453][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-18.05.33:689][ 34]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.07.16-18.05.33:689][ 34]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-18.05.33:796][ 34]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-18.06.12:061][ 81]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-18.06.12:061][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-18.06.12:983][120]LogSlate: Window 'UW_Opciones1' being destroyed
+[2023.07.16-18.06.13:111][120]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-18.06.13:112][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-18.06.13:120][120]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-18.06.13:120][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
