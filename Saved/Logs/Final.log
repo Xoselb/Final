@@ -4484,3 +4484,104 @@ Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Set Pause MENU REF
 [2023.07.16-16.37.29:456][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.07.16-16.37.29:912][897]LogDebuggerCommands: Repeating last play command: Standalone Game
 [2023.07.16-16.37.29:948][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.07.16-16.42.54:829][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.07.16-16.42.54:934][721]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-16.42.54:965][721]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Niveles/MainMenu/XXX3d/MainMenu.MainMenu
+[2023.07.16-16.42.54:965][721]Cmd: MAP LOAD FILE="C:/Users/xosel/OneDrive/Documentos/Unreal Projects/Final/Content/Niveles/MainMenu/XXX3d/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.07.16-16.42.54:965][721]LightingResults: New page: Lighting Build
+[2023.07.16-16.42.54:967][721]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.07.16-16.42.55:005][721]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-16.42.55:005][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-16.42.55:055][721]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.07.16-16.42.55:055][721]MapCheck: New page: Map Check
+[2023.07.16-16.42.55:055][721]LightingResults: New page: Lighting Build
+[2023.07.16-16.42.55:088][721]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.16-16.42.55:100][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.07.16-16.42.55:127][721]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-16.42.55:128][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-16.42.55:164][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.07.16-16.42.55:188][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.07.16-16.42.55:215][721]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.07.16-16.42.55:215][721]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-16.42.55:215][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-16.42.55:216][721]LogAIModule: Creating AISystem for world MainMenu
+[2023.07.16-16.42.55:340][721]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.16-16.42.55:370][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.07.16-16.42.55:377][721]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.16-16.42.55:377][721]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,245ms to complete.
+[2023.07.16-16.42.55:377][721]LogFileHelpers: Loading map 'MainMenu' took 0.412
+[2023.07.16-16.42.57:675][833]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.07.16-16.42.57:703][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.07.16-16.44.51:927][973]LogContentBrowser: Attempting asset rename: Niveles -> Niveles
+[2023.07.16-16.45.02:033][732]LogContentBrowser: Deferred new asset file creation: UW_Opciones1
+[2023.07.16-16.45.02:047][732]LogContentBrowser: Creating deferred item: UW_Opciones1
+[2023.07.16-16.45.02:059][733]LogContentBrowser: Renaming the item being created (Deferred Item: UW_Opciones1).
+[2023.07.16-16.45.03:372][789]LogContentBrowser: Attempting asset rename: UW_Opciones1 -> UW_Opciones1
+[2023.07.16-16.45.03:413][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.07.16-16.45.03:444][789]LogContentBrowser: End creating deferred item UW_Opciones1
+[2023.07.16-16.45.04:090][830]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Niveles/MainMenu/Widgets/UW_Opciones1.UW_Opciones1
+[2023.07.16-16.45.04:090][830]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-16.45.04:091][830]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-16.45.04:121][830]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-16.45.04:121][830]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-16.45.37:763][833]BlueprintLog: New page: Compile UW_Opciones1
+[2023.07.16-16.45.37:819][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.07.16-16.45.39:487][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.16-16.45.39:536][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niveles/MainMenu/Widgets/UW_Opciones1" FILE="C:/Users/xosel/OneDrive/Documentos/Unreal Projects/Final/Content/Niveles/MainMenu/Widgets/UW_Opciones1.uasset" SILENT=true
+[2023.07.16-16.45.39:566][906]LogSavePackage: Moving output files for package: /Game/Niveles/MainMenu/Widgets/UW_Opciones1
+[2023.07.16-16.45.39:566][906]LogSavePackage: Moving 'C:/Users/xosel/OneDrive/Documentos/Unreal Projects/Final/Saved/UW_Opciones1C309AA4547074D66BA06D4A04017F137.tmp' to 'C:/Users/xosel/OneDrive/Documentos/Unreal Projects/Final/Content/Niveles/MainMenu/Widgets/UW_Opciones1.uasset'
+[2023.07.16-16.45.39:584][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 9.22 sec)
+[2023.07.16-16.45.39:589][906]AssetCheck: New page: Asset Save: UW_Opciones1
+[2023.07.16-16.45.39:590][906]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Niveles/MainMenu/Widgets/UW_Opciones1.UW_Opciones1
+[2023.07.16-16.45.44:916][148]LogSlate: Window 'UW_Opciones1' being destroyed
+[2023.07.16-16.45.44:928][148]LogSlate: Window 'UW_Opciones1' being destroyed
+[2023.07.16-16.45.44:963][148]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-16.45.44:963][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-16.45.44:971][148]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-16.45.44:971][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-16.45.46:982][238]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Niveles/MainMenu/Widgets/Pause.Pause
+[2023.07.16-16.45.46:982][238]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-16.45.46:982][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-16.45.47:006][238]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-16.45.47:006][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-16.46.00:829][  6]BlueprintLog: New page: Compile Pause
+[2023.07.16-16.46.00:885][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.07.16-16.46.01:334][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.16-16.46.01:384][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niveles/MainMenu/Widgets/Pause" FILE="C:/Users/xosel/OneDrive/Documentos/Unreal Projects/Final/Content/Niveles/MainMenu/Widgets/Pause.uasset" SILENT=true
+[2023.07.16-16.46.01:396][ 24]LogSavePackage: Moving output files for package: /Game/Niveles/MainMenu/Widgets/Pause
+[2023.07.16-16.46.01:397][ 24]LogSavePackage: Moving 'C:/Users/xosel/OneDrive/Documentos/Unreal Projects/Final/Saved/Pause08A7EA6948E4A025B042E098514EA673.tmp' to 'C:/Users/xosel/OneDrive/Documentos/Unreal Projects/Final/Content/Niveles/MainMenu/Widgets/Pause.uasset'
+[2023.07.16-16.46.01:411][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 9.30 sec)
+[2023.07.16-16.46.01:417][ 24]AssetCheck: New page: Asset Save: Pause
+[2023.07.16-16.46.01:417][ 24]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Niveles/MainMenu/Widgets/Pause.Pause
+[2023.07.16-16.46.02:057][ 54]LogSlate: Window 'Pause' being destroyed
+[2023.07.16-16.46.02:068][ 54]LogSlate: Window 'Pause' being destroyed
+[2023.07.16-16.46.02:088][ 54]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-16.46.02:088][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-16.46.02:096][ 54]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-16.46.02:096][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-16.46.02:984][ 95]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.07.16-16.46.03:020][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.07.16-16.46.06:348][210]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.07.16-16.46.32:436][288]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Niveles/MainMenu/Widgets/Pause.Pause
+[2023.07.16-16.46.32:437][288]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-16.46.32:437][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-16.46.32:449][288]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.16-16.46.32:449][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-16.46.55:312][469]LogSlate: Window 'Delete Variable' being destroyed
+[2023.07.16-16.47.10:443][215]BlueprintLog: New page: Compile Pause
+[2023.07.16-16.47.10:491][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.07.16-16.47.10:964][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.16-16.47.11:019][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niveles/MainMenu/Widgets/Pause" FILE="C:/Users/xosel/OneDrive/Documentos/Unreal Projects/Final/Content/Niveles/MainMenu/Widgets/Pause.uasset" SILENT=true
+[2023.07.16-16.47.11:033][233]LogSavePackage: Moving output files for package: /Game/Niveles/MainMenu/Widgets/Pause
+[2023.07.16-16.47.11:033][233]LogSavePackage: Moving 'C:/Users/xosel/OneDrive/Documentos/Unreal Projects/Final/Saved/Pause24CA4D4B42CE4CDACDA930852E844094.tmp' to 'C:/Users/xosel/OneDrive/Documentos/Unreal Projects/Final/Content/Niveles/MainMenu/Widgets/Pause.uasset'
+[2023.07.16-16.47.11:048][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 9.38 sec)
+[2023.07.16-16.47.11:054][233]AssetCheck: New page: Asset Save: Pause
+[2023.07.16-16.47.11:054][233]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Niveles/MainMenu/Widgets/Pause.Pause
+[2023.07.16-16.47.11:757][267]LogSlate: Window 'Pause' being destroyed
+[2023.07.16-16.47.11:769][267]LogSlate: Window 'Pause' being destroyed
+[2023.07.16-16.47.11:787][267]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-16.47.11:787][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-16.47.11:794][267]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-16.47.11:794][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-16.47.12:788][312]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.07.16-16.47.12:821][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
