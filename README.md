@@ -1,2 +1,2 @@
 # Final
-VideoGame created for Xoselb and Arnau
+VideoGame created for Xoselb
